@@ -254,7 +254,7 @@ Comparison operator:
 If statements:
 
 ```lisp
-(if (= 1 2));
+(if (= 1 2);
     "Yes"; will run if true
     "No";  will run if false
 )
